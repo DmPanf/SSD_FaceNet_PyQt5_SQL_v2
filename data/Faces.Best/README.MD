@@ -1,4 +1,5 @@
 # ID.00.jpg
+<code>
 -rw-r--r-- 1 bunta bunta 65K апр 18 02:33 ID.01.jpg
 -rw-r--r-- 1 bunta bunta 55K апр 18 02:33 ID.02.jpg
 -rw-r--r-- 1 bunta bunta 43K апр 18 02:34 ID.03.jpg
@@ -11,3 +12,4 @@
 -rw-r--r-- 1 bunta bunta 51K апр 18 02:35 ID.10.jpg
 -rw-r--r-- 1 bunta bunta 63K апр 18 02:35 ID.11.jpg
 -rw-r--r-- 1 bunta bunta 57K апр 18 02:35 ID.12.jpg
+</code>
