@@ -4,6 +4,21 @@
 - первый ряд кнопок позволяет переключать разрешение выводимой трансляции между форматами Full HD 1080p, HD 720p, WSVGA, VGA и 360p, 
 - а второй ряд кнопок запускает функции: Настройки, Снимок, Перезапуск
 
+<p>
+<img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/PyQt5/images/pyqt5_00.jpg" width="48%">
+</p>
+<br><br>
+<p>
+<img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/PyQt5/images/pyqt5_01.jpg" width="52%">
+<img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/PyQt5/images/pyqt5_03.jpg" width="45%">
+</p>
+
+<br><br>
+<img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/PyQt5/images/pyqt5_04.jpg" width="99%">
+<br>
+<img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/PyQt5/images/pyqt5_05.jpg" width="75%">
+</p>
+
 ### Links
 
 - Преобразуем проект на Python в исполняемый файл .EXE
