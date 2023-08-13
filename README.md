@@ -6,7 +6,7 @@
 
 <p>
 <img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/PyQt5/images/pyqt5_00.jpg" width="48%">
-<img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/PyQt5/images/pyqt5_01.jpg" width="52%">
+<img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/PyQt5/images/pyqt5_01.jpg" width="46%">
 </p>
 
 <br><br>
